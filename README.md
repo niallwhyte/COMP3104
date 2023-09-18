@@ -1,1 +1,1 @@
-#### COMP3104 - Devloper Operations
+#### COMP3104 - Developer Operations
